@@ -49,11 +49,11 @@ Earlier marketplace and operations work around commerce, supply chains, and prac
 **Cyphon AI**  
 AI automation work for founders and teams, focused on useful workflows rather than AI theater: support, research, operations, delivery, and internal systems.
 
-## How To Read This GitHub
+## What's Here
 
-Some of my strongest work lives in private company, client, or stealth repositories. I use this public GitHub as a selective surface for profile context, reusable patterns, technical notes, and artifacts that can be shared without exposing customers, partners, infrastructure, or private product strategy.
+This profile is a public snapshot of the work I can share openly: selected repositories, product context, technical artifacts, and notes from the systems I am building.
 
-That means the profile is intentionally less about showing every repo I have touched, and more about showing the kinds of systems I build and the judgment behind them.
+For company and client work, sensitive code and operating details stay private. The public thread here is the product and engineering range: fintech infrastructure, AI automation, fullstack product delivery, and tools for operators in emerging markets.
 
 ## Technical Range
 
